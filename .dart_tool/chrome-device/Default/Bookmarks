@@ -1,0 +1,647 @@
+{
+   "checksum": "8a7cfd88a77236a891196040b7d9fc96",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13265383684789385",
+            "date_last_used": "13317692138430550",
+            "guid": "a8dbe79b-9197-4f05-bdcd-92136a7aae10",
+            "id": "16",
+            "name": "Booking.com",
+            "type": "url",
+            "url": "http://secure.rezserver.com/sdk/v1/LinkFwd?refid=9006&destination=booking&refclickid=webslice1819"
+         }, {
+            "date_added": "13265438315245491",
+            "date_last_used": "13322068168725966",
+            "guid": "764aaadc-2e26-4d6d-a1eb-a8758099824b",
+            "id": "17",
+            "name": "Basecamp OD",
+            "type": "url",
+            "url": "https://3.basecamp.com/4275761/#"
+         }, {
+            "date_added": "13265413390861201",
+            "date_last_used": "13321634298227339",
+            "guid": "4a92d179-49c4-4438-9b00-ad28343f424b",
+            "id": "18",
+            "name": "Welcome - Reflections University",
+            "type": "url",
+            "url": "https://yourjourney.reflectionsinsideandout.com/"
+         }, {
+            "date_added": "13265413754706216",
+            "date_last_used": "13315635629643205",
+            "guid": "27ead2a5-b940-40e9-9e78-e461ae7bc99e",
+            "id": "19",
+            "name": "WeVideo",
+            "type": "url",
+            "url": "https://www.wevideo.com/hub"
+         }, {
+            "date_added": "13265413761987297",
+            "date_last_used": "13320239922978587",
+            "guid": "69711a21-8149-421a-acd9-f1b1421ba872",
+            "id": "20",
+            "name": "ClickFunnels - Dashboard",
+            "type": "url",
+            "url": "https://reflectionsinsideandout-app.clickfunnels.com/dashboard"
+         }, {
+            "date_added": "13265413929543217",
+            "date_last_used": "0",
+            "guid": "c2935cd6-489e-450a-8736-74c6206d9e61",
+            "id": "21",
+            "name": "Redirecting… | Slack",
+            "type": "url",
+            "url": "https://tdw-od.slack.com/ssb/redirect"
+         }, {
+            "date_added": "13266283891055987",
+            "date_last_used": "0",
+            "guid": "c5b2bfd2-8bd0-416b-b9d0-f278a82969a0",
+            "id": "22",
+            "name": "Facebook Boost a Post: Reach More People with Your Facebook Page | Facebook for Business",
+            "type": "url",
+            "url": "https://www.facebook.com/business/pages/boost-post"
+         }, {
+            "date_added": "13266368136524051",
+            "date_last_used": "0",
+            "guid": "9cb123bd-12b1-48dd-9a25-54c462b5a174",
+            "id": "23",
+            "name": "Remotasks",
+            "type": "url",
+            "url": "https://www.remotasks.com/en/course?id=introduction-to-remotasks&returnUrl=%2Ftraining-center"
+         }, {
+            "date_added": "13350882122789207",
+            "date_last_used": "0",
+            "guid": "b2a55783-207c-4e21-b361-d3b234bd2719",
+            "id": "24",
+            "name": "WeVideo sign in",
+            "type": "url",
+            "url": "https://www.wevideo.com/sign-in"
+         }, {
+            "date_added": "13267455899289139",
+            "date_last_used": "0",
+            "guid": "00031ba5-c9c1-4947-91f8-9ec23cb86768",
+            "id": "25",
+            "name": "Kartra Training 7: Creating A Page - Kartra blog",
+            "type": "url",
+            "url": "https://www.kartra.com/blog/kartra-training-7-creating-page/"
+         }, {
+            "date_added": "13267679411139676",
+            "date_last_used": "0",
+            "guid": "8ad26920-74bf-4f42-8cca-b5e2db14deef",
+            "id": "26",
+            "name": "Internet Speedtest Results Form",
+            "type": "url",
+            "url": "https://docs.google.com/forms/d/e/1FAIpQLSe7DK0KbXpAkDZdPNA89pTU25-qgx2NPUCjJE3fqpECUxEJ0w/viewform"
+         }, {
+            "date_added": "13267679725626200",
+            "date_last_used": "0",
+            "guid": "080e8550-bdd7-4d60-a9f5-dd816088c715",
+            "id": "27",
+            "name": "Clockify",
+            "type": "url",
+            "url": "https://clockify.me/tracker"
+         }, {
+            "date_added": "13267906927157478",
+            "date_last_used": "0",
+            "guid": "004b81b2-69bc-4e35-ada2-6da31b0fbb11",
+            "id": "28",
+            "name": "2021 Social Media Holiday Dates to Remember With Hashtags | The Blueprint",
+            "type": "url",
+            "url": "https://www.fool.com/the-blueprint/social-media-holidays/"
+         }, {
+            "date_added": "13268726679829683",
+            "date_last_used": "0",
+            "guid": "d32f5bc2-e739-4483-a49a-bff2c6b61384",
+            "id": "29",
+            "name": "Fibromyalgia | Written by Dida",
+            "type": "url",
+            "url": "https://writtenbydida.com/fibromyalgia"
+         }, {
+            "date_added": "13268769283120070",
+            "date_last_used": "0",
+            "guid": "519e98a6-e742-4130-a441-8e19b78dca3d",
+            "id": "30",
+            "name": "Body Mapping Group - Google Sheets",
+            "type": "url",
+            "url": "https://docs.google.com/spreadsheets/d/1GZ6qVRofXlo1CTAX9-li0R-yqZVXIhitEiKiOb3iXOk/edit#gid=1713358012"
+         }, {
+            "date_added": "13271862198500762",
+            "date_last_used": "0",
+            "guid": "51fdb2b3-851b-4616-8a1d-cc0d7828f816",
+            "id": "31",
+            "name": "PhilSys online step 1 registration",
+            "type": "url",
+            "url": "https://register.philsys.gov.ph/#/eng/dashboard"
+         }, {
+            "date_added": "13273860979904641",
+            "date_last_used": "0",
+            "guid": "9b6ad442-1b35-4d54-a2e6-f07f383d80f7",
+            "id": "32",
+            "name": "Free Personality Test | 16Personalities",
+            "type": "url",
+            "url": "https://www.16personalities.com/free-personality-test"
+         }, {
+            "date_added": "13277366052205981",
+            "date_last_used": "0",
+            "guid": "1d70eee5-ce5e-4191-b9e7-6eb497a058d9",
+            "id": "33",
+            "name": "Coping through the pandemic from a therapist | ABC4 Utah",
+            "type": "url",
+            "url": "https://www.abc4.com/gtu/gtu-featured-guest/coping-through-the-pandemic-from-a-therapist/"
+         }, {
+            "date_added": "13277813714338695",
+            "date_last_used": "0",
+            "guid": "bd93b548-0330-4c85-a3cb-e70894bd554b",
+            "id": "34",
+            "name": "Lead Generation Specialist for a Fitness Boutique in the US (Home Based Part Time)",
+            "type": "url",
+            "url": "https://virtualcoworker.zohorecruit.com/recruit/PortalDetail.na?iframe=true&digest=mYhLPVmsdoeEYzvtj4AKbREeGeVtTSXj0oujw0LII30-&jobid=147741000025406093&widgetid=147741000000390320&embedsource=CareerSite"
+         }, {
+            "date_added": "13277813753816208",
+            "date_last_used": "0",
+            "guid": "e3ec7e45-2c04-4466-be94-14e14e71fdd3",
+            "id": "35",
+            "name": "Administrative Assistant for a Coffee Shop in the US (Home Based Part Time)",
+            "type": "url",
+            "url": "https://virtualcoworker.zohorecruit.com/recruit/PortalDetail.na?iframe=true&digest=mYhLPVmsdoeEYzvtj4AKbREeGeVtTSXj0oujw0LII30-&jobid=147741000025436411&widgetid=147741000000390320&embedsource=CareerSite"
+         }, {
+            "date_added": "13278004021063745",
+            "date_last_used": "0",
+            "guid": "2605e58d-5733-44a0-a510-a22891d19703",
+            "id": "36",
+            "name": "Executive Assistant — Athena Recruitment Portal",
+            "type": "url",
+            "url": "https://jobs.athenago.com/executive-assistant"
+         }, {
+            "date_added": "13278776177814127",
+            "date_last_used": "0",
+            "guid": "9063e3e8-86fb-45df-93b1-9195e346478e",
+            "id": "37",
+            "name": "Auto-Responders - Help",
+            "type": "url",
+            "url": "https://help.simplero.com/courses/1837-how-to-guides/lessons/34216-auto-responders"
+         }, {
+            "date_added": "13279228070229474",
+            "date_last_used": "0",
+            "guid": "80da358c-aac7-4465-89b3-5d3dfbc4b3f9",
+            "id": "38",
+            "name": "The Savvy Vault",
+            "type": "url",
+            "url": "https://vault.thevirtualsavvy.com/products/airtable/categories/2148819979/posts/2152101695"
+         }, {
+            "date_added": "13283244033921068",
+            "date_last_used": "0",
+            "guid": "449e6943-7fa9-496a-90ca-42c5704f59cf",
+            "id": "39",
+            "name": "Public health and social measures from 17 December 2021 | Health and wellbeing | Queensland Government",
+            "type": "url",
+            "url": "https://www.qld.gov.au/health/conditions/health-alerts/coronavirus-covid-19/current-status/queensland-restrictions-update/public-health-and-social-measures-linked-to-vaccination-status"
+         }, {
+            "date_added": "13283380310653901",
+            "date_last_used": "0",
+            "guid": "aa3eac7c-73f5-4b8b-8739-a3151c912626",
+            "id": "40",
+            "name": "LYMM III Run Of Show - Google Docs",
+            "type": "url",
+            "url": "https://docs.google.com/document/d/1CPQX7cqfKV5JdIbD61GAnxchlukvcBNQNX-pWyjPesE/edit"
+         }, {
+            "date_added": "13283380323373084",
+            "date_last_used": "0",
+            "guid": "df2ae6fa-22c1-4efb-8c06-ee5129c1991d",
+            "id": "41",
+            "name": "SLP 2021 All Team Meeting Agendas - Google Docs",
+            "type": "url",
+            "url": "https://docs.google.com/document/d/1u2idVXUescBBd1LHgYj8llGzvRtcRDOjoI9C4iQ9Hyo/edit"
+         }, {
+            "date_added": "13285265375637919",
+            "date_last_used": "0",
+            "guid": "04701a35-bf4a-49bc-9363-2439dcba4f08",
+            "id": "42",
+            "name": "Practice Test - PROF. ED. (Set 1 - 2022)",
+            "type": "url",
+            "url": "https://docs.google.com/forms/d/e/1FAIpQLSfu3yAVmaKCQL7rdrl3zo_GajVgW8zAmIMdrAPsFRrkxfcyWw/viewscore?viewscore=AE0zAgBwyWjW1CgXCj4FsH_EokzxQ25tMNS99Wj0QTcfJ0O5dUzloA5GSdFYBfd1Kg"
+         }, {
+            "date_added": "13285266400180448",
+            "date_last_used": "0",
+            "guid": "6f7f64b5-dac6-42f7-9fd2-b40f4c6cff32",
+            "id": "43",
+            "name": "PROF. ED. TEST - 40 items",
+            "type": "url",
+            "url": "https://docs.google.com/forms/d/e/1FAIpQLSfNemLuY-iXyJd8VYrAoKsGergzvZ2eJU3eL_7qMKCEJcNlfQ/viewscore?pli=1&pli=1&viewscore=AE0zAgD_GYCu60OSr955TCdDi_FqFdATF8DnUP96l7qHh_ijYVPYTw2XkkrPyvpB8g"
+         }, {
+            "date_added": "13287244521166568",
+            "date_last_used": "0",
+            "guid": "79d6848b-cf73-4c0d-8f4d-c433f2a6b998",
+            "id": "44",
+            "name": "Practice Test - Gen Ed- 2022",
+            "type": "url",
+            "url": "https://docs.google.com/forms/d/e/1FAIpQLSfXfZWJKxORzgPIIw3gZoK1A_jjPYHgOtqpBM0SK-0IgByPnA/viewscore?pli=1&pli=1&viewscore=AE0zAgBojz9s69ltpN_wxzAkt6DAmQW3Z5-W7cTAjO7n36SLRGO9GkR5nONW2E_x5w"
+         }, {
+            "date_added": "13287260009976658",
+            "date_last_used": "0",
+            "guid": "61448870-9674-4233-abe2-8459e6350f6a",
+            "id": "45",
+            "name": "PRC LET Reviewer with Answer Keys - Teach Pinas",
+            "type": "url",
+            "url": "https://www.teachpinas.com/prc-let-reviewer-profed-gened-majorship/"
+         }, {
+            "date_added": "13291612017406564",
+            "date_last_used": "0",
+            "guid": "04e377ed-2996-42f8-b25a-a24fd532576f",
+            "id": "46",
+            "name": "⭐️Best Studio flat w/NETFLIX near airport & Beach⭐️ - Apartments for Rent in Lapu-Lapu City, Central Visayas, Philippines",
+            "type": "url",
+            "url": "https://www.airbnb.com/rooms/48099728?adults=3&check_in=2022-06-18&check_out=2022-06-20&federated_search_id=cb338097-adc6-494f-93ae-75e895bcf00a&source_impression_id=p3_1647135959_LSIFYd6mHeRo%2BcAH&guests=1"
+         }, {
+            "date_added": "13292018073192503",
+            "date_last_used": "0",
+            "guid": "9d699d7f-9a9a-483a-8529-2487ce9bc872",
+            "id": "47",
+            "name": "Storyy - Automations Manager - Remote Job",
+            "type": "url",
+            "url": "https://storyy.zohorecruit.com/jobs/Careers/662520000000424100/Automations-Manager?source=CareerSite"
+         }, {
+            "date_added": "13292021179567998",
+            "date_last_used": "0",
+            "guid": "fb171934-923d-44b5-b330-b0b4566a0f11",
+            "id": "48",
+            "name": "Courses & Lessons | HubSpot Academy",
+            "type": "url",
+            "url": "https://academy.hubspot.com/courses?_ga=2.110225093.1105969747.1647547440-1224990390.1647547440&page=3#certsOnly=true;"
+         }, {
+            "date_added": "13292673985247886",
+            "date_last_used": "0",
+            "guid": "d2de645e-fe12-47c7-b1fa-63c13fb944f9",
+            "id": "49",
+            "name": "Meeting Registration Success - Zoom",
+            "type": "url",
+            "url": "https://us02web.zoom.us/meeting/register/tZErc-2tpzMiGNOZOYT-y9Wy39cRtnZ-c0gp/success?user_id=jNjXRhQkQdGMglpMnssjFA&timezone_id=Asia%2FTaipei"
+         }, {
+            "date_added": "13306808869483519",
+            "date_last_used": "0",
+            "guid": "f4ee39a1-13a9-46ad-8e54-0872776219f6",
+            "id": "50",
+            "name": "Home",
+            "type": "url",
+            "url": "https://3.basecamp.com/5150208/"
+         }, {
+            "date_added": "13306910274777292",
+            "date_last_used": "0",
+            "guid": "88f82f9e-0722-4284-bb7b-911db7c3c90a",
+            "id": "51",
+            "name": "WEEK 1 - Google Drive",
+            "type": "url",
+            "url": "https://drive.google.com/drive/folders/16cn5bgsQfUYjHgAPNN7aaxrfZ_t302cJ"
+         }, {
+            "date_added": "13304651192844214",
+            "date_last_used": "0",
+            "guid": "1e4f6943-745f-46e6-b8d4-0247cb7bebe7",
+            "id": "52",
+            "name": "Blackboard Learn",
+            "type": "url",
+            "url": "https://umindanao.blackboard.com/webapps/login/?action=login&new_loc=%2Fultra%2Fredirect%3FredirectType%3Dnautilus%26userId%3D_16550_1%26courseId%3D_3352_1%26contentId%3D_313813_1%26sourceId%3D_296498_1%257Cblackboard.platform.gradebook2.AttemptDetail%26parentId%3Dnull%26sourceType%3DTE%26eventType%3DTE_ATTEMPT%26disable_promiscuous_decodes%3Dtrue"
+         }, {
+            "date_added": "13304737098790181",
+            "date_last_used": "0",
+            "guid": "5cb5e47d-c65c-4edf-8fb9-c13c67ce0b22",
+            "id": "53",
+            "name": "Login - UM STUDENT PORTAL MAIN",
+            "type": "url",
+            "url": "https://student.umindanao.edu.ph/login"
+         }, {
+            "date_added": "13308938747711197",
+            "date_last_used": "0",
+            "guid": "bb9bc0cd-54c9-4e49-95d9-0d4c79aa609b",
+            "id": "54",
+            "name": "Meta Business Suite",
+            "type": "url",
+            "url": "https://business.facebook.com/latest/content_calendar?asset_id=124272061053086&nav_ref=page_composer_interruption"
+         }, {
+            "date_added": "13312451215930223",
+            "date_last_used": "0",
+            "guid": "109221c3-8ccf-4cfd-bac0-afae39d3fc8a",
+            "id": "55",
+            "name": "JOY Nurture Emails",
+            "type": "url",
+            "url": "https://3.basecamp.com/5150208/buckets/23220527/documents/5477055505"
+         }, {
+            "date_added": "13315995767808681",
+            "date_last_used": "0",
+            "guid": "6f3d7917-dc3d-4f14-ab25-2064b3a52438",
+            "id": "56",
+            "name": "e",
+            "type": "url",
+            "url": "https://yourjourney.reflectionsinsideandout.com/wp-admin/post-new.php?post_type=sfwd-topic"
+         }, {
+            "date_added": "13316019364586132",
+            "date_last_used": "0",
+            "guid": "3e45967f-92d8-40f8-b473-312a93409e6f",
+            "id": "57",
+            "name": "How To Use Memberships Themes : HighLevel Support Portal",
+            "type": "url",
+            "url": "https://help.gohighlevel.com/support/solutions/articles/48001207635-how-to-use-membership-themes"
+         }, {
+            "date_added": "13320436086042960",
+            "date_last_used": "0",
+            "guid": "99a07b2a-6baf-4ed8-b32b-ea6397f57b2e",
+            "id": "58",
+            "name": "2023 RI&O Monitoring Sheet - Google Sheets",
+            "type": "url",
+            "url": "https://docs.google.com/spreadsheets/d/1z5BCnEjqTBA9IgQ6K_NDSCLdP0PiiRbST1HzrsiSsAs/edit#gid=0"
+         }, {
+            "date_added": "13323281499619063",
+            "date_last_used": "0",
+            "guid": "9f3b9bf1-8782-442a-86ef-6c22ca0bb43d",
+            "id": "59",
+            "name": "Jasper - AI Copywriter | AI Content Generator for Teams",
+            "type": "url",
+            "url": "https://www.jasper.ai/?source=partner&fpr=hugh93"
+         }, {
+            "date_added": "13326478686938573",
+            "date_last_used": "0",
+            "guid": "005d983d-b094-4146-ab47-9b4989efb674",
+            "id": "60",
+            "name": "Social Media Calendar ",
+            "type": "url",
+            "url": "https://stackby.com/stack/stPgMa5OtOs6kEsu4N"
+         }, {
+            "date_added": "13327693789004679",
+            "date_last_used": "0",
+            "guid": "dd84971a-0dd1-4e7c-8197-a15f2dd6e42d",
+            "id": "61",
+            "name": "Surrender...Manifestation through Pleasure & Flow",
+            "type": "url",
+            "url": "https://reflectionsinsideandout-app.clickfunnels.com/pages/58834476/editor_v2?optin=true&sales=true#"
+         }, {
+            "date_added": "13328645606532230",
+            "date_last_used": "0",
+            "guid": "30e4d94e-3d89-4e09-ae41-c348be1f604d",
+            "id": "62",
+            "name": "Application Form",
+            "type": "url",
+            "url": "https://forms.monday.com/forms/d172f8a54b7ee7366600890765bb506e?r=use1"
+         }, {
+            "date_added": "13330705238443901",
+            "date_last_used": "0",
+            "guid": "8eba74c3-c130-4ac9-9fa2-bf710f0b919b",
+            "id": "63",
+            "name": "Maxicare Customer Support | Maxicare Customer Care Numbers & Email",
+            "type": "url",
+            "url": "https://www.maxicare.com.ph/support/"
+         }, {
+            "date_added": "13335450608900178",
+            "date_last_used": "0",
+            "guid": "69fda3de-b7e9-41b5-a121-00569f7f8467",
+            "id": "64",
+            "name": "Slack",
+            "type": "url",
+            "url": "https://app.slack.com/client/T05KSSZ0BGD/C05KVR10UQ2"
+         }, {
+            "date_added": "13335887750423410",
+            "date_last_used": "0",
+            "guid": "4bec5a6e-30f9-4787-80a6-fd30f5b4db0d",
+            "id": "65",
+            "name": "Ellen May Delfin",
+            "type": "url",
+            "url": "https://myportfolio06.my.canva.site/"
+         }, {
+            "date_added": "13352242393851860",
+            "date_last_used": "0",
+            "guid": "3815160a-fe81-43fb-8a7b-2aa315cb5e81",
+            "id": "66",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Become A VA | Agency VA",
+            "type": "url",
+            "url": "https://agencyva.com/become-a-va/"
+         }, {
+            "date_added": "13352243099981627",
+            "date_last_used": "0",
+            "guid": "abef3167-af24-4fc6-8319-4d42244c884a",
+            "id": "67",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Administrative Assistant - The VA Group, LLC - Career Page",
+            "type": "url",
+            "url": "https://tvag.applytojob.com/apply/sAciEp3D8w/Administrative-Assistant"
+         }, {
+            "date_added": "13352243781362711",
+            "date_last_used": "0",
+            "guid": "f244bed0-c837-4b0a-85dc-a97a19877175",
+            "id": "68",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Amazon Arbitrage/eCommerce Admin VA Job Application Form",
+            "type": "url",
+            "url": "https://docs.google.com/forms/d/e/1FAIpQLSdkoTVdIsT7ZHa9woZwrXilxg3gfvAowlQt14bsQVUNnk3uDQ/viewform"
+         }, {
+            "date_added": "13352243992572276",
+            "date_last_used": "0",
+            "guid": "94022733-0f02-48b3-a52f-043b455cc1c2",
+            "id": "69",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Prosper Virtual Assistant - Intake Form",
+            "type": "url",
+            "url": "https://docs.google.com/forms/d/e/1FAIpQLSfa6ycdIXJdEI5Jtfa7tQ0VenIrTOvKy1HJGLD3X54wSD5TiA/viewform"
+         }, {
+            "date_added": "13352864476159649",
+            "date_last_used": "0",
+            "guid": "12f9e78b-9087-49d1-b175-d706d3d3fc45",
+            "id": "70",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Virtual Assistant - 17323541296 - Support Shepherd",
+            "type": "url",
+            "url": "https://apply.workable.com/shepherdcareers/j/097D029752/"
+         }, {
+            "date_added": "13352996244904623",
+            "date_last_used": "0",
+            "guid": "67768614-9273-455a-8d91-b9a2a1b1a4da",
+            "id": "71",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Admin/Bookkeeper Virtual Assistant",
+            "type": "url",
+            "url": "https://value-virtual-assistants.breezy.hr/p/0c6937bbc940-admin-bookkeeper-virtual-assistant/apply"
+         }, {
+            "date_added": "13353350797999376",
+            "date_last_used": "0",
+            "guid": "57351a83-3929-4c99-9a53-84279bd4ceab",
+            "id": "72",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Our Comprehensive Guide On How To Work Abroad",
+            "type": "url",
+            "url": "https://www.workabroad.ph/blog/item/400/our-comprehensive-guide-on-how-to-work-abroad"
+         }, {
+            "date_added": "13354380567629387",
+            "date_last_used": "0",
+            "guid": "48624678-6011-4b0a-8368-ba91cd794399",
+            "id": "73",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(465) Getting Started with Square Email Marketing - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=KV7tc9hKj-g"
+         }, {
+            "date_added": "13358984882391502",
+            "date_last_used": "0",
+            "guid": "62e6bcfd-9998-487d-a47e-af1080dd7563",
+            "id": "74",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Custom domains – Kartra Documentation",
+            "type": "url",
+            "url": "https://documentation.kartra.com/category/custom-domains/"
+         }, {
+            "date_added": "13359103204055727",
+            "date_last_used": "0",
+            "guid": "6d471f7b-bcc1-42a3-bc12-877a920f40f8",
+            "id": "75",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Roundcube Webmail :: Inbox",
+            "type": "url",
+            "url": "https://semidedi01-ga.privatesystems.net:2096/cpsess8607855160/3rdparty/roundcube/index.php?_task=mail&_token=weG1pYHuo8pzihDTy0prnub6tluEUw5Q"
+         }, {
+            "date_added": "13360867158078490",
+            "date_last_used": "0",
+            "guid": "0d2c0cf8-afbd-4079-81b9-7fdbc38442eb",
+            "id": "76",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "support – Certified Listeners Society",
+            "type": "url",
+            "url": "https://certifiedlisteners.org/support/"
+         }, {
+            "date_added": "13362497722193598",
+            "date_last_used": "0",
+            "guid": "e9c6d839-4eec-4500-a358-180102587c1a",
+            "id": "77",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Everything you need to teach engaging lessons",
+            "type": "url",
+            "url": "https://www.canva.com/education/teaching-resources/"
+         }, {
+            "date_added": "13362852121967928",
+            "date_last_used": "0",
+            "guid": "298030bb-c584-4db2-b3f7-e6497283ba10",
+            "id": "78",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Science-CG_with-tagged-sci-equipment_revised.pdf",
+            "type": "url",
+            "url": "https://www.deped.gov.ph/wp-content/uploads/2019/01/Science-CG_with-tagged-sci-equipment_revised.pdf"
+         }, {
+            "date_added": "13363106358625454",
+            "date_last_used": "0",
+            "guid": "02dbb2bb-5021-417a-802b-3e35530d20f5",
+            "id": "79",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Application Form – Online Helpers",
+            "type": "url",
+            "url": "https://onlinehelpers.info/application-form/"
+         }, {
+            "date_added": "13383421036343043",
+            "date_last_used": "0",
+            "guid": "84674b24-b627-49f8-9db9-3587b5d5180f",
+            "id": "9",
+            "name": "Utomik Games",
+            "type": "url",
+            "url": "https://www.utomik.com/hp_edgefavourites"
+         }, {
+            "date_added": "13383421036342894",
+            "date_last_used": "0",
+            "guid": "aac71e29-abd7-4c67-a70f-8ec613f5662b",
+            "id": "8",
+            "name": "Booking.com",
+            "type": "url",
+            "url": "https://www.booking.com/index.html?aid=1980379&label=edge2020"
+         }, {
+            "date_added": "13383421036342691",
+            "date_last_used": "0",
+            "guid": "c909c843-0d53-494d-a0c0-a3f827ff04b5",
+            "id": "7",
+            "name": "Express VPN",
+            "type": "url",
+            "url": "http://js.redirect.hp.com/jumpstation?bd=expressvpn&c=*&locale=en_us&pf=*&s=*&tp=edge"
+         }, {
+            "date_added": "13383421036341117",
+            "date_last_used": "0",
+            "guid": "3703e0e6-ae0f-4c4a-ab95-cef11d13555b",
+            "id": "6",
+            "name": "LastPass password manager",
+            "type": "url",
+            "url": "http://js.redirect.hp.com/jumpstation?bd=lastpass&c=*&locale=*&pf=*&s=*&tp=edge"
+         } ],
+         "date_added": "13383421035956214",
+         "date_last_used": "0",
+         "date_modified": "13383421044843307",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13265383684789385",
+               "date_last_used": "0",
+               "guid": "5fd65ca0-823f-4139-80d7-e5550418017e",
+               "id": "14",
+               "name": "Booking.com",
+               "type": "url",
+               "url": "http://secure.rezserver.com/sdk/v1/LinkFwd?refid=9006&destination=booking&refclickid=iefav1819"
+            } ],
+            "date_added": "13383421041137470",
+            "date_last_used": "0",
+            "date_modified": "13383421044842920",
+            "guid": "6c7e1634-468d-4603-8935-9ca7bc8c1f35",
+            "id": "13",
+            "name": "HP",
+            "type": "folder"
+         }, {
+            "date_added": "13363893737966449",
+            "date_last_used": "0",
+            "guid": "a042dcbc-746d-4653-a005-211eb08418ab",
+            "id": "15",
+            "name": "",
+            "type": "url",
+            "url": "https://www.google.com.ph/intl/en/about/products"
+         } ],
+         "date_added": "13383421035956217",
+         "date_last_used": "0",
+         "date_modified": "13363893737966449",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13383421035956219",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
